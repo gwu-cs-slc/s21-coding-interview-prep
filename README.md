@@ -1,5 +1,7 @@
 # Syllabus CS 3907: Coding Interview Prep
 A 1 credit coding interview course led by students.
+## Prerequisite
+CSCI 1112 (Data Structures & Algorithms)
 ## Class location
 - Friday 11:10 - 12:25 (zoom)
 ## Class Technology
