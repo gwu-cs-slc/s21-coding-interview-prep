@@ -60,7 +60,9 @@ ISBN-10: 0984782850
 ### Homework
 All homework will be due the following week they are assigned. You can expect them to be graded 2 weeks after they are due. 
 ### In-class interviews
-Every class you will be expected to be an interviewer and an interviewee. You will be peer assessed on both of these aspects. 
+Every class you will be expected to be an interviewer and an interviewee. You will be peer assessed on both of these aspects.
+### Midterm/Final
+The midterm and final will be a 45 minute interview with one of the instructors. The final will be cumulative. 
 ### Late Policy
 We will not be accepting late homework. However, each HW will count for 10% of the HW grade and we have 12 HWs.
 ### Absences
