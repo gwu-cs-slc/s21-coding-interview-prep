@@ -12,6 +12,12 @@ A 1 credit coding interview course led by students.
 | Midterm Interview | 30% |
 | Final Interview | 30% |
 
+## Required Textbook
+Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition  
+by Gayle Laakmann McDowell (Author)
+ISBN-13: 978-0984782857
+ISBN-10: 0984782850
+
 ### Grading Boundaries
 |  |  |
 |--|--|
