@@ -36,8 +36,11 @@ ISBN-10: 0984782850
 | > 60% | D-|
 | < 60% | F |
 
+
+
+
 ## Schedule
-| Date       |         | Content / Subject               | Weekly (HW Assigned) |
+| Date       |         | Content / Subject               | Weekly HW (Assigned) |
 |------------|---------|---------------------------------|----------------------|
 | 01/15/2021 | Week 0  | Strings                         | HW0                  |
 | 01/22/2021 | Week 1  | Strings                         | HW1                  |
