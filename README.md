@@ -70,4 +70,7 @@ We will not be accepting late homework. However, each HW will count for 10% of t
 ### Absences
 If you need to be absent please let us know as soon as you can. We can come up with a plan for you to stay involved in the course. 
 
+## University Policies
+Please see [University Policies](https://www2.seas.gwu.edu/~gparmer/resources/2020-08-01-University-Policies.html). Credits to Gabe for this link. 
+
 
